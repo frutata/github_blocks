@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 50px; 
+}
+.container {
+    width: 1500px;
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 25px;
+    align-self: center;
+}
+.cat {
+    height: 200px;
+}
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+.aqua {
+    background-color: aqua;
+}
+.pink {
+    background-color: pink;
+}
+.grey {
+    background-color: grey;
+}
+.white {
+    background-color: white;
+}
